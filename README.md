@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I'm currently a graduate student of Data Science at UCSD
+- 👯 I’m now collaborating on the VRX 2023 competition, with the Inspiration Robotics team at TritonAI
+- 💬 Ask me any questions about my project
+- 📫 How to reach me: <jil386@ucsd.edu>
