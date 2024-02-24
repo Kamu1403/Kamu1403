@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, I'm Jintong!
 
 <!--
 **Kamu1403/Kamu1403** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +17,10 @@ Here are some ideas to get you started:
 - 👯 I’m now collaborating on the VRX 2023 competition, with the Inspiration Robotics team at TritonAI
 -->
 
-- 🔭 I'm currently a graduate student of Data Science at UCSD
-- 🌱 I’m currently learning architecture for distributed database: Redis, NoSQL ...
-- 💬 Ask me any questions about my project
-- 📫 How to reach me: <jil386@ucsd.edu>
+- 🔭 **Education:** Master's in Data Science, UC San Diego.
+- 👯 **Collaboration:** Working at SanDiego350 on Transit Oriented Development (TOD) planning research from GIS data.
+- 🌱 **Learning:** Currently focusing on distributed database architecture, including Redis on Kubernetes and NoSQL technologies...
+- 💬 **Let's Connect:** Feel free to ask me questions about my projects or interests in data science.
+- 📫 **Contact:** Reach me at <jil386@ucsd.edu>.
+
+*Excited to connect and collaborate on innovative projects!*
